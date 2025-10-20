@@ -1,1 +1,0 @@
-# cloud_quiz_repo
